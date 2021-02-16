@@ -1,2 +1,2 @@
-# design-pattern
+# Design Pattern
 Collect design pattern
